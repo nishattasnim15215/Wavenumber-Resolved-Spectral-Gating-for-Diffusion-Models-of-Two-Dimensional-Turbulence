@@ -1,0 +1,7 @@
+# Tested with Python 3.12. torch is the CUDA 12.4 build (2.6.0+cu124);
+# install the wheel matching your CUDA from https://pytorch.org if needed.
+torch==2.6.0
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.17.1
+matplotlib==3.10.8

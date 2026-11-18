@@ -1,0 +1,3 @@
+variant,config,k20_mult,k20_mult_sd,k20_conf,pixel_cal,crps,k20_mult_ci_lo,k20_mult_ci_hi,k20_conf_ci_lo,k20_conf_ci_hi
+wrsg_fno,single_model,0.8993,0.0083,0.9193,0.9069,0.5315,,,,
+wrsg_fno,deep_160,0.8945,,0.9152,0.9095,0.5187,0.8706,0.9174,0.8753,0.9492

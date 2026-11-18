@@ -1,0 +1,3 @@
+variant,n_uq,n_test,pixel_cal,k20_perregime_paper,k20_pooled_mult,k20_pooled_conformal,k20_conf_ci_lo,k20_conf_ci_hi,crps_single,crps_deepens
+wrsg,256,128,0.9072,0.84,0.8889,0.9246,0.8912,0.9577,0.5347,0.5223
+wrsg_fno,256,128,0.9069,0.84,0.8993,0.9193,0.8753,0.9492,0.5315,0.5187

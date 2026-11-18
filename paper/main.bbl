@@ -1,0 +1,235 @@
+\begin{thebibliography}{34}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Angelopoulos \& Bates(2021)Angelopoulos and
+  Bates]{angelopoulos2021gentle}
+Anastasios~N. Angelopoulos and Stephen Bates.
+\newblock A gentle introduction to conformal prediction and distribution-free
+  uncertainty quantification.
+\newblock \emph{arXiv preprint arXiv:2107.07511}, 2021.
+
+\bibitem[Batchelor(1969)]{batchelor1969computation}
+George~K. Batchelor.
+\newblock Computation of the energy spectrum in homogeneous two-dimensional
+  turbulence.
+\newblock \emph{The Physics of Fluids}, 12\penalty0 (12):\penalty0
+  II--233--II--239, 1969.
+
+\bibitem[Boffetta \& Ecke(2012)Boffetta and Ecke]{boffetta2012two}
+Guido Boffetta and Robert~E. Ecke.
+\newblock Two-dimensional turbulence.
+\newblock \emph{Annual Review of Fluid Mechanics}, 44:\penalty0 427--451, 2012.
+
+\bibitem[Cohen(1988)]{cohen1988statistical}
+Jacob Cohen.
+\newblock \emph{Statistical Power Analysis for the Behavioral Sciences}.
+\newblock Lawrence Erlbaum Associates, 2nd edition, 1988.
+
+\bibitem[Efron(1979)]{efron1979bootstrap}
+Bradley Efron.
+\newblock Bootstrap methods: Another look at the jackknife.
+\newblock \emph{The Annals of Statistics}, 7\penalty0 (1):\penalty0 1--26,
+  1979.
+
+\bibitem[Frisch(1995)]{frisch1995turbulence}
+Uriel Frisch.
+\newblock \emph{Turbulence: The Legacy of A. N. Kolmogorov}.
+\newblock Cambridge University Press, 1995.
+
+\bibitem[Gneiting \& Raftery(2007)Gneiting and Raftery]{gneiting2007strictly}
+Tilmann Gneiting and Adrian~E. Raftery.
+\newblock Strictly proper scoring rules, prediction, and estimation.
+\newblock \emph{Journal of the American Statistical Association}, 102\penalty0
+  (477):\penalty0 359--378, 2007.
+
+\bibitem[Ho et~al.(2020)Ho, Jain, and Abbeel]{ho2020ddpm}
+Jonathan Ho, Ajay Jain, and Pieter Abbeel.
+\newblock Denoising diffusion probabilistic models.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~33, pp.\  6840--6851, 2020.
+
+\bibitem[Hu et~al.(2018)Hu, Shen, and Sun]{hu2018squeeze}
+Jie Hu, Li~Shen, and Gang Sun.
+\newblock Squeeze-and-excitation networks.
+\newblock In \emph{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition (CVPR)}, pp.\  7132--7141, 2018.
+
+\bibitem[Karras et~al.(2022)Karras, Aittala, Aila, and Laine]{karras2022edm}
+Tero Karras, Miika Aittala, Timo Aila, and Samuli Laine.
+\newblock Elucidating the design space of diffusion-based generative models.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~35, pp.\  26565--26577, 2022.
+
+\bibitem[Kochkov et~al.(2021)Kochkov, Smith, Alieva, Wang, Brenner, and
+  Hoyer]{kochkov2021machine}
+Dmitrii Kochkov, Jamie~A. Smith, Ayya Alieva, Qing Wang, Michael~P. Brenner,
+  and Stephan Hoyer.
+\newblock Machine learning--accelerated computational fluid dynamics.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 118\penalty0
+  (21):\penalty0 e2101784118, 2021.
+
+\bibitem[Kohl et~al.(2024)Kohl, Chen, and Thuerey]{kohl2024benchmarking}
+Georg Kohl, Li-Wei Chen, and Nils Thuerey.
+\newblock Benchmarking autoregressive conditional diffusion models for
+  turbulent flow simulation.
+\newblock \emph{arXiv preprint arXiv:2309.01745}, 2024.
+
+\bibitem[Kovachki et~al.(2023)Kovachki, Li, Liu, Azizzadenesheli, Bhattacharya,
+  Stuart, and Anandkumar]{kovachki2023neural}
+Nikola Kovachki, Zongyi Li, Burigede Liu, Kamyar Azizzadenesheli, Kaushik
+  Bhattacharya, Andrew Stuart, and Anima Anandkumar.
+\newblock Neural operator: Learning maps between function spaces with
+  applications to {PDE}s.
+\newblock \emph{Journal of Machine Learning Research}, 24\penalty0
+  (89):\penalty0 1--97, 2023.
+
+\bibitem[Kraichnan(1967)]{kraichnan1967inertial}
+Robert~H. Kraichnan.
+\newblock Inertial ranges in two-dimensional turbulence.
+\newblock \emph{The Physics of Fluids}, 10\penalty0 (7):\penalty0 1417--1423,
+  1967.
+
+\bibitem[Li et~al.(2021)Li, Kovachki, Azizzadenesheli, Liu, Bhattacharya,
+  Stuart, and Anandkumar]{li2021fno}
+Zongyi Li, Nikola Kovachki, Kamyar Azizzadenesheli, Burigede Liu, Kaushik
+  Bhattacharya, Andrew Stuart, and Anima Anandkumar.
+\newblock Fourier neural operator for parametric partial differential
+  equations.
+\newblock In \emph{International Conference on Learning Representations}, 2021.
+
+\bibitem[Lippe et~al.(2023)Lippe, Veeling, Perdikaris, Turner, and
+  Brandstetter]{lippe2023pderefiner}
+Phillip Lippe, Bas~S. Veeling, Paris Perdikaris, Richard~E. Turner, and
+  Johannes Brandstetter.
+\newblock {PDE-Refiner}: Achieving accurate long rollouts with neural {PDE}
+  solvers.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~36, 2023.
+
+\bibitem[Loshchilov \& Hutter(2019)Loshchilov and
+  Hutter]{loshchilov2019decoupled}
+Ilya Loshchilov and Frank Hutter.
+\newblock Decoupled weight decay regularization.
+\newblock In \emph{International Conference on Learning Representations}, 2019.
+
+\bibitem[Lu et~al.(2022)Lu, Zhou, Bao, Chen, Li, and Zhu]{lu2022dpmsolverpp}
+Cheng Lu, Yuhao Zhou, Fan Bao, Jianfei Chen, Chongxuan Li, and Jun Zhu.
+\newblock {DPM-Solver++}: Fast solver for guided sampling of diffusion
+  probabilistic models.
+\newblock \emph{arXiv preprint arXiv:2211.01095}, 2022.
+
+\bibitem[Lugmayr et~al.(2022)Lugmayr, Danelljan, Romero, Yu, Timofte, and
+  Van~Gool]{lugmayr2022repaint}
+Andreas Lugmayr, Martin Danelljan, Andres Romero, Fisher Yu, Radu Timofte, and
+  Luc Van~Gool.
+\newblock {RePaint}: Inpainting using denoising diffusion probabilistic models.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition (CVPR)}, pp.\  11461--11471, 2022.
+
+\bibitem[Matheson \& Winkler(1976)Matheson and Winkler]{matheson1976scoring}
+James~E. Matheson and Robert~L. Winkler.
+\newblock Scoring rules for continuous probability distributions.
+\newblock \emph{Management Science}, 22\penalty0 (10):\penalty0 1087--1096,
+  1976.
+
+\bibitem[Orszag(1971)]{orszag1971elimination}
+Steven~A. Orszag.
+\newblock On the elimination of aliasing in finite-difference schemes by
+  filtering high-wavenumber components.
+\newblock \emph{Journal of the Atmospheric Sciences}, 28\penalty0 (6):\penalty0
+  1074--1074, 1971.
+
+\bibitem[Rahaman et~al.(2019)Rahaman, Baratin, Arpit, Draxler, Lin, Hamprecht,
+  Bengio, and Courville]{rahaman2019spectral}
+Nasim Rahaman, Aristide Baratin, Devansh Arpit, Felix Draxler, Min Lin, Fred
+  Hamprecht, Yoshua Bengio, and Aaron Courville.
+\newblock On the spectral bias of neural networks.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, pp.\
+  5301--5310, 2019.
+
+\bibitem[Raissi et~al.(2019)Raissi, Perdikaris, and
+  Karniadakis]{raissi2019physics}
+Maziar Raissi, Paris Perdikaris, and George~E. Karniadakis.
+\newblock Physics-informed neural networks: A deep learning framework for
+  solving forward and inverse problems involving nonlinear partial differential
+  equations.
+\newblock \emph{Journal of Computational Physics}, 378:\penalty0 686--707,
+  2019.
+
+\bibitem[Ronneberger et~al.(2015)Ronneberger, Fischer, and
+  Brox]{ronneberger2015unet}
+Olaf Ronneberger, Philipp Fischer, and Thomas Brox.
+\newblock {U-Net}: Convolutional networks for biomedical image segmentation.
+\newblock In \emph{International Conference on Medical Image Computing and
+  Computer-Assisted Intervention (MICCAI)}, pp.\  234--241. Springer, 2015.
+
+\bibitem[Rozet \& Louppe(2023)Rozet and Louppe]{rozet2023diffusion}
+Fran{\c{c}}ois Rozet and Gilles Louppe.
+\newblock Score-based data assimilation.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~36, 2023.
+
+\bibitem[Sambamurthy \& Chattopadhyay(2025)Sambamurthy and
+  Chattopadhyay]{sambamurthy2025lazy}
+Anish Sambamurthy and Ashesh Chattopadhyay.
+\newblock Lazy diffusion: Mitigating spectral collapse in generative
+  diffusion-based stable autoregressive emulation of turbulent flows.
+\newblock \emph{arXiv preprint arXiv:2512.09572}, 2025.
+
+\bibitem[Shu et~al.(2023)Shu, Li, and Farimani]{shu2023diffusion}
+Dule Shu, Zijie Li, and Amir~Barati Farimani.
+\newblock A physics-informed diffusion model for high-fidelity flow field
+  reconstruction.
+\newblock \emph{Journal of Computational Physics}, 478:\penalty0 111972, 2023.
+
+\bibitem[Song et~al.(2021)Song, Sohl-Dickstein, Kingma, Kumar, Ermon, and
+  Poole]{song2021score}
+Yang Song, Jascha Sohl-Dickstein, Diederik~P. Kingma, Abhishek Kumar, Stefano
+  Ermon, and Ben Poole.
+\newblock Score-based generative modeling through stochastic differential
+  equations.
+\newblock In \emph{International Conference on Learning Representations}, 2021.
+
+\bibitem[Stachenfeld et~al.(2022)Stachenfeld, Fielding, Kochkov, Cranmer,
+  Pfaff, Godwin, Cui, Ho, Battaglia, and
+  Sanchez-Gonzalez]{stachenfeld2022learned}
+Kimberly Stachenfeld, Drummond~B. Fielding, Dmitrii Kochkov, Miles Cranmer,
+  Tobias Pfaff, Jonathan Godwin, Can Cui, Shirley Ho, Peter Battaglia, and
+  Alvaro Sanchez-Gonzalez.
+\newblock Learned coarse models for efficient turbulence simulation.
+\newblock In \emph{International Conference on Learning Representations}, 2022.
+
+\bibitem[Suresh~Babu et~al.(2025)Suresh~Babu, Sadam, and
+  Lermusiaux]{sureshbabu2025guided}
+Anantha~Narayanan Suresh~Babu, Akhil Sadam, and Pierre F.~J. Lermusiaux.
+\newblock Guided unconditional and conditional generative models for
+  super-resolution and inference of quasi-geostrophic turbulence.
+\newblock \emph{arXiv preprint arXiv:2507.00719}, 2025.
+
+\bibitem[Vovk et~al.(2005)Vovk, Gammerman, and Shafer]{vovk2005algorithmic}
+Vladimir Vovk, Alexander Gammerman, and Glenn Shafer.
+\newblock \emph{Algorithmic Learning in a Random World}.
+\newblock Springer, 2005.
+
+\bibitem[Warhaft(2000)]{warhaft2000passive}
+Zellman Warhaft.
+\newblock Passive scalars in turbulent flows.
+\newblock \emph{Annual Review of Fluid Mechanics}, 32\penalty0 (1):\penalty0
+  203--240, 2000.
+
+\bibitem[Whittaker et~al.(2024)Whittaker, Janik, and
+  Oz]{whittaker2024turbulence}
+Tim Whittaker, Romuald~A. Janik, and Yaron Oz.
+\newblock Turbulence scaling from deep learning diffusion generative models.
+\newblock \emph{Journal of Computational Physics}, 514:\penalty0 113239, 2024.
+
+\bibitem[Wilcoxon(1945)]{wilcoxon1945individual}
+Frank Wilcoxon.
+\newblock Individual comparisons by ranking methods.
+\newblock \emph{Biometrics Bulletin}, 1\penalty0 (6):\penalty0 80--83, 1945.
+
+\end{thebibliography}
